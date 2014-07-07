@@ -1,4 +1,4 @@
-zackruybal
+Zack Ruybal
 ==========
 
-My repo for some of my projects, and my personal website
+A repo for some of my projects, and my personal website
